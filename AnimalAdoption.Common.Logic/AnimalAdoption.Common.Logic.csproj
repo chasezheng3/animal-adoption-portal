@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Version>1.0.0</Version>
-    <RepositoryUrl>https://github.com/(your-github-user-name)/animal-adoption-portal.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/chasezheng3/animal-adoption-portal</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
